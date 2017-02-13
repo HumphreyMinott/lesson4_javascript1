@@ -13,8 +13,7 @@ Humphrey Minott
 In this assignment I used JavaScript to create an application that could be used to calculate living expenses.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://humphreyminott.github.io/lesson4_javascript1/.
 
 ### Lessons Learned in the Assignment:
 1. getElementById() method used to get input from user
